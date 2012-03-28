@@ -1,0 +1,14 @@
+#petal {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.dot {
+	display: block;
+	background-color: black;
+	width: 8px;
+	height: 8px;
+	border-radius: 4px;
+	position:absolute;
+}
